@@ -1,6 +1,6 @@
 
 
-# Painting with AI
+# What we think we become
 
 Final project for the Building AI course
 
