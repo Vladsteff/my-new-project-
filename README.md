@@ -13,7 +13,7 @@ AI is a human creation ,AI represents us.AI is what we would to be.A brain that 
 
 Throughout our lives we humans encounter problems,some smaller,some larger,we are always looking for solution,some better ,some less. AI cold solve these problems much more efficiently and find solutions much faster and correctly.The only thing we need to know is that we creat AI and not the other way around. It is important not to lose control of reality.
 
-This is how you make a list, if you need one:
+
 * polarization 
 * disorientation
 * etc.
@@ -23,12 +23,11 @@ This is how you make a list, if you need one:
 
 AI is our future and we will all take part in creating. Let's make this future "brain" clean and beatiful.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+
 IMG_8735.jpeg
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+
+
 
 This is how you create code examples:
 ```
@@ -50,9 +49,7 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+My self
 
 | Syntax      | Description |
 | ----------- | ----------- |
@@ -61,11 +58,11 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+We cannot impose,we can only help.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+Sooner or later AI will touch us all. We have to be prepared to accept it into our lives. There are many of us, we can team up to help the sensitive future. To be fair and balanced.
 
 
 ## Acknowledgments
@@ -73,5 +70,5 @@ How could your project grow and become something even more? What kind of skills,
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+  <br>For example: https://images.app.goo.gl/J4kLK3w71GtG7T6M6
 * etc
