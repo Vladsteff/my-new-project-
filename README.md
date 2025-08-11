@@ -6,26 +6,26 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+AI is a human creation ,AI represents us.AI is what we would to be.A brain that knows everything.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Throughout our lives we humans encounter problems,some smaller,some larger,we are always looking for solution,some better ,some less. AI cold solve these problems much more efficiently and find solutions much faster and correctly.The only thing we need to know is that we creat AI and not the other way around. It is important not to lose control of reality.
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
+* polarization 
+* disorientation
 * etc.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+AI is our future and we will all take part in creating. Let's make this future "brain" clean and beatiful.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
